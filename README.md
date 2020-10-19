@@ -1,1 +1,1 @@
-# SparksFoundation
+This repository contains code for Task 2 as a Data Science & Business Analytics Intern at The Sparks Foundation, From the given Iris dataset predict the optimum number of clusters and represent it visually
